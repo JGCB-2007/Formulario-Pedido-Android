@@ -46,6 +46,7 @@ Formulario de pedido con los siguientes campos:
 		<td>Botón para reiniciar todos los campos</td>
 	</tr>
 </table>
+
 ## 🏗️Tecnologías Utilizadas
 
 1. Kotlin
